@@ -1,0 +1,3 @@
+Id no: 2 book is borrowed by Student whose id is 1
+Id no: 1 book is borrowed by teacher whose id is 1
+Id no: 1 book is returned by Teacher whose id is 1
